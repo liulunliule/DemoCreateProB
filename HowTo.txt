@@ -1,0 +1,8 @@
+1. Tạo 1 github repo
+2. git init
+3. viết code
+	git status
+	git add .
+	git commit -m "messsage"
+	(coppy dòng git http://...)
+	git push origin (master)
